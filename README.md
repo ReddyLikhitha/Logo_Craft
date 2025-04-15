@@ -14,5 +14,6 @@ How it Works
 3. The generated logo is optimized for [mention specific optimization criteria, e.g., color palette, typography]
 
 Acknowledgments
+
 This project was developed as part of the Gen AI Hackathon organized by Smart Bridge at Malla Reddy Engineering College for Women.
 We appreciate the opportunity to showcase our skills and creativity.
